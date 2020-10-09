@@ -22,8 +22,6 @@ function App() {
     )
 }
 
-
-
 #2
 function Header(props) {
     return (
@@ -33,13 +31,11 @@ function Header(props) {
     )
 }
 
-
 #3
 function Greeting() {
     const date = new Date()
     const hours = date.getHours()
     let timeOfDay
-
     if (hours < 12) {
         timeOfDay = "morning"
     } else if (hours >= 12 && hours < 17) {
@@ -51,5 +47,4 @@ function Greeting() {
         <h1>Good {timeOfDay} to you, sir or madam!</h1>
     )
 }
-
 </code></pre></blockquote>
