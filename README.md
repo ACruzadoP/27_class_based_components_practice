@@ -20,7 +20,7 @@ function App() {
             &lt;Greeting /&gt;
         &lt;/div&gt;
     )
-}
+}<br />
 
 #2
 function Header(props) {
@@ -29,7 +29,7 @@ function Header(props) {
         &lt;p&gt;Welcome, {props.username}!&lt;/p&gt;
         &lt;/header&gt;
     )
-}
+}<br />
 
 #3
 function Greeting() {
@@ -44,7 +44,7 @@ function Greeting() {
         timeOfDay = "night"
     }
     return (
-        <h1>Good {timeOfDay} to you, sir or madam!</h1>
+        &lt;h1&gt;Good {timeOfDay} to you, sir or madam!&lt;/h1&gt;
     )
 }
 </code></pre></blockquote>
