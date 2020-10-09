@@ -23,14 +23,16 @@ function App() {
 }
 </code></pre></blockquote>
 
-// #2
-// function Header(props) {
-//     return (
-//         <header>
-//          <p>Welcome, {props.username}!</p>
-//         </header>
-//     )
-// }
+<textarea disabled>
+#2
+function Header(props) {
+    return (
+        <header>
+        <p>Welcome, {props.username}!</p>
+        </header>
+    )
+}
+</textarea>
 
 // #3
 // function Greeting() {
