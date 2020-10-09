@@ -15,10 +15,10 @@ Challenge:<br />
 #1
 function App() {
     return (
-        <div>
-            <Header />
-            <Greeting />
-        </div>
+        &lt;div&gt;
+            &lt;Header /&gt;
+            &lt;Greeting /&gt;
+        &lt;/div&gt;
     )
 }
 </code></pre></blockquote>
