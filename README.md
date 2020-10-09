@@ -3,19 +3,15 @@ https://scrimba.com/course/glearnreact
 
 
 
-/*
-
 Challenge:<br />
 1. Convert all 3 components to be class-based<br />
 2. Fix the small bug<br />
 
-*/
-
 
 <br />
 <br />
 
-<pre><code>
+<blockquote><pre><code>
 #1
 function App() {
     return (
@@ -25,7 +21,7 @@ function App() {
         </div>
     )
 }
-</code></pre>
+</code></pre></blockquote>
 
 // #2
 // function Header(props) {
