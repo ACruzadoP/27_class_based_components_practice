@@ -20,8 +20,9 @@ function App() {
             &lt;Greeting /&gt;
         &lt;/div&gt;
     )
-}<br />
-
+}
+</code></pre></blockquote>
+<blockquote><pre><code>
 #2
 function Header(props) {
     return (
@@ -29,8 +30,9 @@ function Header(props) {
         &lt;p&gt;Welcome, {props.username}!&lt;/p&gt;
         &lt;/header&gt;
     )
-}<br />
-
+}
+</code></pre></blockquote>
+<blockquote><pre><code>
 #3
 function Greeting() {
     const date = new Date()
