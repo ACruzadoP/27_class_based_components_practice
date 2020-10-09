@@ -15,16 +15,17 @@ Challenge:<br />
 <br />
 <br />
 
-<code>
-// #1
-// function App() {
-//     return (
-//         <div>
-//             <Header />
-//             <Greeting />
-//         </div>
-//     )
-// }
+<pre><code>
+#1
+function App() {
+    return (
+        <div>
+            <Header />
+            <Greeting />
+        </div>
+    )
+}
+</code></pre>
 
 // #2
 // function Header(props) {
@@ -52,4 +53,3 @@ Challenge:<br />
 //         <h1>Good {timeOfDay} to you, sir or madam!</h1>
 //     )
 // }
-</code>
