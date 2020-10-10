@@ -1,12 +1,10 @@
-This is 28th screencast, called "28. Class-based Components Practice"<br />
+This is 27th screencast, called "27. Class-based Components Practice"<br />
 https://scrimba.com/course/glearnreact
 
-
-
+<br />
 Challenge:<br />
 1. Convert all 3 components to be class-based<br />
 2. Fix the small bug<br />
-
 
 <br />
 <br />
